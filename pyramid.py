@@ -9,7 +9,7 @@
   Solution:
     def pyramid(rows):
 	    for i in range(rows):
-		    print("*" * 6)
+		    print("*" * rows)
 
     pyramid(6)
 
